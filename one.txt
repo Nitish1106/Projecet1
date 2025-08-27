@@ -1,1 +1,2 @@
 This is new file in red branch.
+this is line from master.
